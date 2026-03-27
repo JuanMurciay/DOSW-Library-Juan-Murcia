@@ -13,4 +13,9 @@ public class Book {
 
    ; public void setAvailable(boolean available) {
     }
+
+    public boolean isAvailable() {
+       return true;
+
+    }
 }
